@@ -6,7 +6,7 @@ It is essential to innovate and improve service levels by predicting possible pr
 ## Usage
 We provide the necessary code to use the algorithm with the event logs of your choice. We illustrate the examples using the BPI Challenge 2016 dataset.
 
-For the data preprocessing (encoding), run:
+For the data preprocessing (encoding), run: Frequency based encoding.py
 
 To train and evaluate the model, run:
 
