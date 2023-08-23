@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
 
 import pandas as pd
 import numpy as np
@@ -61,6 +59,3 @@ df_Myans
 
 
 df_Myans.to_csv('Frequency based encoding dataset.csv')
-
-
-
