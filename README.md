@@ -9,16 +9,11 @@ We provide the necessary code to use the algorithm with the event logs of your c
 For the data preprocessing (encoding), run: Frequency based encoding.py
 
 To train and evaluate the model, run:
+1. DBSCAN implemintation.py
+2. removing columns with high covariance.py
+3. removing columns withlow variance.py
+4. classification-decision tree.py
 
 ## Data
 The events log for the predictive busienss process monitoring can be found at 4TU Research Data
 
-
-
-
-
-
-
-#000000 python data_processing.py --dataset=helpdesk --task=next_activity
-python data_processing.py --dataset=helpdesk --task=next_time
-python data_processing.py --dataset=helpdesk --task=remaining_time
