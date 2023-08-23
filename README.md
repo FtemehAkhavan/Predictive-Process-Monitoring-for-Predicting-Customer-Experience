@@ -16,4 +16,5 @@ To train and evaluate the model, run:
 
 ## Data
 The events log for the predictive busienss process monitoring can be found at 4TU Research Data
+https://data.4tu.nl/collections/BPI_Challenge_2016/5065538
 
